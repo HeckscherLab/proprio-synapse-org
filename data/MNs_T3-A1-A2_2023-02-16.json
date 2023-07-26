@@ -1,0 +1,537 @@
+[
+ {
+  "skeleton_id": 4753449,
+  "color": "#ffff00",
+  "opacity": 1
+ },
+ {
+  "skeleton_id": 4788300,
+  "color": "#ffff00",
+  "opacity": 1
+ },
+ {
+  "skeleton_id": 4791651,
+  "color": "#ffff00",
+  "opacity": 1
+ },
+ {
+  "skeleton_id": 4881629,
+  "color": "#ffff00",
+  "opacity": 1
+ },
+ {
+  "skeleton_id": 4936459,
+  "color": "#ffff00",
+  "opacity": 1
+ },
+ {
+  "skeleton_id": 5085455,
+  "color": "#ffff00",
+  "opacity": 1
+ },
+ {
+  "skeleton_id": 5355874,
+  "color": "#ffff00",
+  "opacity": 1
+ },
+ {
+  "skeleton_id": 5356438,
+  "color": "#ffff00",
+  "opacity": 1
+ },
+ {
+  "skeleton_id": 5425318,
+  "color": "#ffff00",
+  "opacity": 1
+ },
+ {
+  "skeleton_id": 5899328,
+  "color": "#ffff00",
+  "opacity": 1
+ },
+ {
+  "skeleton_id": 6463937,
+  "color": "#ffff00",
+  "opacity": 1
+ },
+ {
+  "skeleton_id": 6467481,
+  "color": "#ffff00",
+  "opacity": 1
+ },
+ {
+  "skeleton_id": 6970942,
+  "color": "#ffff00",
+  "opacity": 1
+ },
+ {
+  "skeleton_id": 8026224,
+  "color": "#ffff00",
+  "opacity": 1
+ },
+ {
+  "skeleton_id": 10013402,
+  "color": "#ffff00",
+  "opacity": 1
+ },
+ {
+  "skeleton_id": 10051927,
+  "color": "#ffff00",
+  "opacity": 1
+ },
+ {
+  "skeleton_id": 10649843,
+  "color": "#ffff00",
+  "opacity": 1
+ },
+ {
+  "skeleton_id": 10678017,
+  "color": "#ffff00",
+  "opacity": 1
+ },
+ {
+  "skeleton_id": 11323467,
+  "color": "#ffff00",
+  "opacity": 1
+ },
+ {
+  "skeleton_id": 13057994,
+  "color": "#ffff00",
+  "opacity": 1
+ },
+ {
+  "skeleton_id": 13058240,
+  "color": "#ffff00",
+  "opacity": 1
+ },
+ {
+  "skeleton_id": 13062905,
+  "color": "#ffff00",
+  "opacity": 1
+ },
+ {
+  "skeleton_id": 13063726,
+  "color": "#ffff00",
+  "opacity": 1
+ },
+ {
+  "skeleton_id": 13063958,
+  "color": "#ffff00",
+  "opacity": 1
+ },
+ {
+  "skeleton_id": 13255354,
+  "color": "#ffff00",
+  "opacity": 1
+ },
+ {
+  "skeleton_id": 13255601,
+  "color": "#ffff00",
+  "opacity": 1
+ },
+ {
+  "skeleton_id": 13873397,
+  "color": "#ffff00",
+  "opacity": 1
+ },
+ {
+  "skeleton_id": 13873694,
+  "color": "#ffff00",
+  "opacity": 1
+ },
+ {
+  "skeleton_id": 13874039,
+  "color": "#ffff00",
+  "opacity": 1
+ },
+ {
+  "skeleton_id": 13874213,
+  "color": "#ffff00",
+  "opacity": 1
+ },
+ {
+  "skeleton_id": 13874875,
+  "color": "#ffff00",
+  "opacity": 1
+ },
+ {
+  "skeleton_id": 13875211,
+  "color": "#ffff00",
+  "opacity": 1
+ },
+ {
+  "skeleton_id": 13875538,
+  "color": "#ffff00",
+  "opacity": 1
+ },
+ {
+  "skeleton_id": 13875818,
+  "color": "#ffff00",
+  "opacity": 1
+ },
+ {
+  "skeleton_id": 13877013,
+  "color": "#ffff00",
+  "opacity": 1
+ },
+ {
+  "skeleton_id": 13877402,
+  "color": "#ffff00",
+  "opacity": 1
+ },
+ {
+  "skeleton_id": 13877719,
+  "color": "#ffff00",
+  "opacity": 1
+ },
+ {
+  "skeleton_id": 13878100,
+  "color": "#ffff00",
+  "opacity": 1
+ },
+ {
+  "skeleton_id": 13878485,
+  "color": "#ffff00",
+  "opacity": 1
+ },
+ {
+  "skeleton_id": 13878729,
+  "color": "#ffff00",
+  "opacity": 1
+ },
+ {
+  "skeleton_id": 13879525,
+  "color": "#ffff00",
+  "opacity": 1
+ },
+ {
+  "skeleton_id": 13879996,
+  "color": "#ffff00",
+  "opacity": 1
+ },
+ {
+  "skeleton_id": 13880322,
+  "color": "#ffff00",
+  "opacity": 1
+ },
+ {
+  "skeleton_id": 13880943,
+  "color": "#ffff00",
+  "opacity": 1
+ },
+ {
+  "skeleton_id": 13881374,
+  "color": "#ffff00",
+  "opacity": 1
+ },
+ {
+  "skeleton_id": 13881810,
+  "color": "#ffff00",
+  "opacity": 1
+ },
+ {
+  "skeleton_id": 13882192,
+  "color": "#ffff00",
+  "opacity": 1
+ },
+ {
+  "skeleton_id": 13883107,
+  "color": "#ffff00",
+  "opacity": 1
+ },
+ {
+  "skeleton_id": 13883598,
+  "color": "#ffff00",
+  "opacity": 1
+ },
+ {
+  "skeleton_id": 13884087,
+  "color": "#ffff00",
+  "opacity": 1
+ },
+ {
+  "skeleton_id": 13884216,
+  "color": "#ffff00",
+  "opacity": 1
+ },
+ {
+  "skeleton_id": 13884511,
+  "color": "#ffff00",
+  "opacity": 1
+ },
+ {
+  "skeleton_id": 13885023,
+  "color": "#ffff00",
+  "opacity": 1
+ },
+ {
+  "skeleton_id": 13885276,
+  "color": "#ffff00",
+  "opacity": 1
+ },
+ {
+  "skeleton_id": 13885479,
+  "color": "#ffff00",
+  "opacity": 1
+ },
+ {
+  "skeleton_id": 13885637,
+  "color": "#ffff00",
+  "opacity": 1
+ },
+ {
+  "skeleton_id": 13885984,
+  "color": "#ffff00",
+  "opacity": 1
+ },
+ {
+  "skeleton_id": 13886394,
+  "color": "#ffff00",
+  "opacity": 1
+ },
+ {
+  "skeleton_id": 13899673,
+  "color": "#ffff00",
+  "opacity": 1
+ },
+ {
+  "skeleton_id": 13900969,
+  "color": "#ffff00",
+  "opacity": 1
+ },
+ {
+  "skeleton_id": 13959288,
+  "color": "#ffff00",
+  "opacity": 1
+ },
+ {
+  "skeleton_id": 14044614,
+  "color": "#ffff00",
+  "opacity": 1
+ },
+ {
+  "skeleton_id": 14045016,
+  "color": "#ffff00",
+  "opacity": 1
+ },
+ {
+  "skeleton_id": 14045489,
+  "color": "#ffff00",
+  "opacity": 1
+ },
+ {
+  "skeleton_id": 14045854,
+  "color": "#ffff00",
+  "opacity": 1
+ },
+ {
+  "skeleton_id": 14046720,
+  "color": "#ffff00",
+  "opacity": 1
+ },
+ {
+  "skeleton_id": 14047130,
+  "color": "#ffff00",
+  "opacity": 1
+ },
+ {
+  "skeleton_id": 14047554,
+  "color": "#ffff00",
+  "opacity": 1
+ },
+ {
+  "skeleton_id": 14047760,
+  "color": "#ffff00",
+  "opacity": 1
+ },
+ {
+  "skeleton_id": 14047945,
+  "color": "#ffff00",
+  "opacity": 1
+ },
+ {
+  "skeleton_id": 14048287,
+  "color": "#ffff00",
+  "opacity": 1
+ },
+ {
+  "skeleton_id": 14048538,
+  "color": "#ffff00",
+  "opacity": 1
+ },
+ {
+  "skeleton_id": 14048876,
+  "color": "#ffff00",
+  "opacity": 1
+ },
+ {
+  "skeleton_id": 14085813,
+  "color": "#ffff00",
+  "opacity": 1
+ },
+ {
+  "skeleton_id": 14086309,
+  "color": "#ffff00",
+  "opacity": 1
+ },
+ {
+  "skeleton_id": 14087107,
+  "color": "#ffff00",
+  "opacity": 1
+ },
+ {
+  "skeleton_id": 14087339,
+  "color": "#ffff00",
+  "opacity": 1
+ },
+ {
+  "skeleton_id": 14088149,
+  "color": "#ffff00",
+  "opacity": 1
+ },
+ {
+  "skeleton_id": 14088451,
+  "color": "#ffff00",
+  "opacity": 1
+ },
+ {
+  "skeleton_id": 14194026,
+  "color": "#ffff00",
+  "opacity": 1
+ },
+ {
+  "skeleton_id": 14194234,
+  "color": "#ffff00",
+  "opacity": 1
+ },
+ {
+  "skeleton_id": 14198375,
+  "color": "#ffff00",
+  "opacity": 1
+ },
+ {
+  "skeleton_id": 14198542,
+  "color": "#ffff00",
+  "opacity": 1
+ },
+ {
+  "skeleton_id": 14199031,
+  "color": "#ffff00",
+  "opacity": 1
+ },
+ {
+  "skeleton_id": 14199565,
+  "color": "#ffff00",
+  "opacity": 1
+ },
+ {
+  "skeleton_id": 14203725,
+  "color": "#ffff00",
+  "opacity": 1
+ },
+ {
+  "skeleton_id": 14206438,
+  "color": "#ffff00",
+  "opacity": 1
+ },
+ {
+  "skeleton_id": 14238008,
+  "color": "#ffff00",
+  "opacity": 1
+ },
+ {
+  "skeleton_id": 14238231,
+  "color": "#ffff00",
+  "opacity": 1
+ },
+ {
+  "skeleton_id": 14238936,
+  "color": "#ffff00",
+  "opacity": 1
+ },
+ {
+  "skeleton_id": 14596287,
+  "color": "#ffff00",
+  "opacity": 1
+ },
+ {
+  "skeleton_id": 14978288,
+  "color": "#ffff00",
+  "opacity": 1
+ },
+ {
+  "skeleton_id": 15504416,
+  "color": "#ffff00",
+  "opacity": 1
+ },
+ {
+  "skeleton_id": 15505284,
+  "color": "#ffff00",
+  "opacity": 1
+ },
+ {
+  "skeleton_id": 16042137,
+  "color": "#ffff00",
+  "opacity": 1
+ },
+ {
+  "skeleton_id": 16080562,
+  "color": "#ffff00",
+  "opacity": 1
+ },
+ {
+  "skeleton_id": 16181494,
+  "color": "#ffff00",
+  "opacity": 1
+ },
+ {
+  "skeleton_id": 16264802,
+  "color": "#ffff00",
+  "opacity": 1
+ },
+ {
+  "skeleton_id": 16433395,
+  "color": "#ffff00",
+  "opacity": 1
+ },
+ {
+  "skeleton_id": 16534755,
+  "color": "#ffff00",
+  "opacity": 1
+ },
+ {
+  "skeleton_id": 16681025,
+  "color": "#ffff00",
+  "opacity": 1
+ },
+ {
+  "skeleton_id": 16713121,
+  "color": "#ffff00",
+  "opacity": 1
+ },
+ {
+  "skeleton_id": 16767384,
+  "color": "#ffff00",
+  "opacity": 1
+ },
+ {
+  "skeleton_id": 19111930,
+  "color": "#ffff00",
+  "opacity": 1
+ },
+ {
+  "skeleton_id": 19139253,
+  "color": "#ffff00",
+  "opacity": 1
+ },
+ {
+  "skeleton_id": 20901068,
+  "color": "#ffff00",
+  "opacity": 1
+ },
+ {
+  "skeleton_id": 20901073,
+  "color": "#ffff00",
+  "opacity": 1
+ }
+]
